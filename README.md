@@ -1,4 +1,4 @@
-Levenshtein Algorithm by Eerika Haajanen
+Levenshtein Algorithm
 ---
 
 Demonstration of 2 versions of the levenshtein algorithm for finding the difference between 2 strings. 
